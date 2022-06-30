@@ -4,6 +4,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Project is simple employee list fetched from jsonplaceholder site and displayed with react/next framework.
 
+[Preview](https://next-employees-list.vercel.app/)  of this project is deployed on vercel hosting 
+
 Goal is to train basic principes of next.js framework like
 
 - Static and dynamic page routing
